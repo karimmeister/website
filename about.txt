@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Buginese
+- Font Author: Copyright 2017 Google Inc. All Rights Reserved.
+- Font Source: http://fonts.gstatic.com/s/notosansbuginese/v15/esDM30ldNv-KYGGJpKGk18phe_7Da6_gtfuEXLmNtw.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
